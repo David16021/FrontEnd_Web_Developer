@@ -4,3 +4,4 @@ git remote add origin URL -> añadimos la url que nos ganera el repositorio de g
 git remote -> ver el origen 
 git remote -v -> muestra los origenes 
 git push origin main 
+ git remote set-url origin https://github.com/David16021/FrontEnd_Web_Developer.git   -> cambiar de origen 
