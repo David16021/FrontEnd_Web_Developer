@@ -1,0 +1,6 @@
+git init   ->creando repositorio
+git add . -> añadir archivos 
+git remote add origin URL -> añadimos la url que nos ganera el repositorio de github
+git remote -> ver el origen 
+git remote -v -> muestra los origenes 
+git push origin main 
