@@ -4,4 +4,11 @@ git remote add origin URL -> añadimos la url que nos ganera el repositorio de g
 git remote -> ver el origen 
 git remote -v -> muestra los origenes 
 git push origin main 
- git remote set-url origin https://github.com/David16021/FrontEnd_Web_Developer.git   -> cambiar de origen 
+git remote set-url origin https://github.com/David16021/FrontEnd_Web_Developer.git   -> cambiar de origen 
+
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+
+$ git config --list 
+
+$ git config user.name ->John Doe
